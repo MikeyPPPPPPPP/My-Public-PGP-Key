@@ -1,6 +1,6 @@
 ## This is my public PGP key. 
 
-I have an offline backup of the Private key. This key is not stored at my house and is in multipule locations for redundancy. Soneone IU know trying to sell me rugs is rediculous. Not evan the US government cant pretend to be me.
+I have an offline backup of the Private key. This key is not stored at my house and is in multipule locations for redundancy. Soneone I know trying to sell me rugs is rediculous. Not evan the US government cant pretend to be me.
 
 
 # If you want my securety start here
